@@ -1,16 +1,16 @@
-## Hi there 👋
+# 2158149 Project 🍀
 
-<!--
-**2158149/2158149** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Project Banner](https://via.placeholder.com/800x200?text=WSPCX+Banner)
 
-Here are some ideas to get you started:
+A brief description of your project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Features
+- Feature 1
+- Feature 2
+- Feature 3
+
+## Quick Start
+```bash
+git clone https://github.com/2158149/wspcx.git
+cd wspcx
+pip install -r requirements.txt
